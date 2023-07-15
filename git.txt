@@ -1,0 +1,16 @@
+// initialize git
+git init
+
+// ignore file from being uploaded
+.gitnore
+
+// push to github
+git remote add origin GITHUB REPO LINK
+git branch -M main
+git push -u origin main
+
+// stage all files
+git add .
+
+// commit changes
+git commit -m "message"
