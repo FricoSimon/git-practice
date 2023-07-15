@@ -1,0 +1,32 @@
+// git lens use
+install extension
+
+// commit graph
+get detail of commit and visualise
+
+// commit details
+get detail of commit
+
+// source control
+same with from git vscode extension
+
+// focus view
+check pull req and issue
+
+// file history
+check file history for each file
+
+// visualize file history
+visualize file history
+
+// stashes
+check stashes
+
+// search and compare
+search and compare commit and branch
+
+// git kraken workspaces
+create workspace to manage multiple git repo
+
+// worktrees
+work with multiple branch in same repo
