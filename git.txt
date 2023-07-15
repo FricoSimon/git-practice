@@ -32,3 +32,7 @@ git checkout branch-name
 
 // git push in different branch
 git push --set-upstream origin <branch-name>
+
+// merge branch
+git merge branch-name // merge branch-name to current branch
+let say we are in main branch and we want to merge feature branch to main branch
