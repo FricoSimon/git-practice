@@ -29,3 +29,6 @@ git branch branch-name
 
 // switch branch
 git checkout branch-name
+
+// git push in different branch
+git push --set-upstream origin <branch-name>
