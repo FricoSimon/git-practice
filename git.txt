@@ -14,3 +14,21 @@ git add .
 
 // commit changes
 git commit -m "message"
+
+// push to github
+git push
+
+// pull from github
+git pull
+
+// check status
+git status
+
+// create branch
+git branch branch-name
+
+// switch branch
+git checkout branch-name
+
+// git push in different branch
+git push --set-upstream origin <branch-name>
