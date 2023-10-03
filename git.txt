@@ -20,7 +20,7 @@ git push
 git push origin BRANCH NAME
 
 // pull from github
-git pull 
+git pull
 git pull origin BRANCH NAME
 
 // check status
